@@ -4,7 +4,7 @@
     "occupation":"Full-Stack Developer",
     "description":"I have 6 years of experience in front-end, back-end and game development. Along these years i've been working as a employee (full-stack) and freelancing (game development)",
     "image":"profilepic.jpg",
-    "bio":"I'm a commited programmer with good interpersonal relashionships. I love learning new languages and I can say that I'm a fast learner.",
+    "bio":"I'm a commited programmer with good interpersonal relashionships. I've been used a variety of programming languages in my jobs along these years, what makes me a 'generalist programmer'.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "raphaelcasarotto@gmail.com",
     "phone": "(41) 99648-0377",
@@ -79,10 +79,6 @@
         "level":"85%"
       },
       {
-        "name":"Docker",
-        "level":"75%"
-      },
-      {
         "name":"Python",
         "level":"75%"
       },
@@ -105,6 +101,14 @@
       {
         "name":"Unity3D",
         "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"Docker",
+        "level":"75%"
       },
       {
         "name":"MongoDB",
