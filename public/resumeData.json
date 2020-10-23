@@ -15,7 +15,7 @@
       "zip": "83323-140"
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/open?id=1l2Z5-wLn2fAxwll00gCZmlAbNUcZ9ylY",
+    "resumedownload":"https://docs.google.com/document/d/1QLV3uDKWDjJFA4yeoFNZilRr2y0FK5BK_LDvSiJaHD8/export?format=pdf",
     "social":[
       {
         "name":"facebook",
@@ -89,6 +89,10 @@
       {
         "name":"NodeJs",
         "level":"85%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"75%"
       },
       {
         "name":"CSS",
